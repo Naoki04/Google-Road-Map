@@ -1,0 +1,4 @@
+Map:
+  url: "https://maps.googleapis.com/maps/api/staticmap" # Endpoint
+  key: "**API KEY**" # API Key
+
